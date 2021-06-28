@@ -1,24 +1,5 @@
-# vue-practice
+vue를 이용한 간단한 사이드 프로젝트
 
-## Project setup
-```
-npm install
-```
+Todo리스트 작성
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vuex를 이용해 상태관리를 하며 vue의 기본적인 틀을 이해함.
